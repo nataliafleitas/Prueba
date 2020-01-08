@@ -1,6 +1,7 @@
 Hola
 # Prueba
 Practicamos git para aprender mejor
+Trabajamos mejor en grupo 
 
 mi vieja mula ya no es lo que era 
 lskdjflaksjldkfjlkadkfajd
